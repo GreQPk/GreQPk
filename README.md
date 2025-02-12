@@ -20,3 +20,5 @@ I enjoy exploring data, creating insightful visualizations, and uncovering patte
 🎖️ Certifications & Badges
 
 Here are some of my certifications:
+
+[![Power BI Data Analyst](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c41fa28-db08-46cc-b716-72a7acb5b41a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)]
