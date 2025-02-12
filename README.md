@@ -22,4 +22,5 @@ I enjoy exploring data, creating insightful visualizations, and uncovering patte
 Here are some of my certifications:
 
 [![Power BI Data Analyst](microsoft-certified-power-bi-data-analyst-associate.png)](https://www.credly.com/badges/8c41fa28-db08-46cc-b716-72a7acb5b41a/public_url)
+[![Azure Data Engineer](microsoft-certified-azure-data-engineer-associate.png)](https://www.credly.com/badges/385b9204-2e67-4392-9e73-f049d0370ecd/public_url)
 
