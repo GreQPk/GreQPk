@@ -3,14 +3,22 @@
 <!--
 **GreQPk/GreQPk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Welcome to My GitHub Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 About Me
+
+I'm a Junior Data Analyst with experience in:
+
+📊 Power BI (DAX, visualization, reporting)
+
+☁️ Azure & Fabric (cloud analytics, data services)
+
+🐍 Python (Pandas, Matplotlib, Seaborn)
+
+💾 SQL (queries, data transformation, optimization)
+
+I enjoy exploring data, creating insightful visualizations, and uncovering patterns that drive decision-making. Check out my repositories for projects related to data analysis, visualization, and automation!
+
+🎖️ Certifications & Badges
+
+Here are some of my certifications:
